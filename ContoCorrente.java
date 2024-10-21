@@ -1,5 +1,8 @@
 package application;
-
+/*
+ * La classe contocorrente ha 2 variabili d'istanza che sono il pin associato al conto
+ * e il saldo sempre associato
+ */
 public class ContoCorrente {
 	
 	String pin;
