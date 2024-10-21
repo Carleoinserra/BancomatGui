@@ -72,7 +72,7 @@ public boolean versa(String pin, double importo) {
  * 
  * Il metodo getSaldo restituisce il saldo corrente do un conto a partire dal suo pin
  */
-public double gestSaldo(String pin) {
+public double getSaldo(String pin) {
 	double saldo = 0;
 	for (ContoCorrente c1: listaC) {
 		
